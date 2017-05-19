@@ -6,23 +6,30 @@
   "description": "Boltar de Fuego, the Black Knight of CiviCRM.",
   "dependencies": {
     "hubot": "^2.19.0",
-    "hubot-bolts": "git://github.com/xurizaemon/hubot-bolts.git",
+    "hubot-bolts": "git+https://github.com/xurizaemon/hubot-bolts.git",
     "hubot-diagnostics": "0.0.1",
     "hubot-drupalorg": "0.0.2",
-    "hubot-factoids": "^1.0.1",
+    "hubot-factoids": "git+https://github.com/xurizaemon/hubot-factoids.git",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.2.0",
     "hubot-heroku-keepalive": "^1.0.2",
     "hubot-jira": "^1.0.2",
+    "hubot-mail-listener": "^1.0.0",
+    "hubot-mail-notifier": "0.0.1",
     "hubot-maps": "0.0.2",
     "hubot-matteruser": "^3.6.0",
+    "hubot-mobilefriendly": "git+https://github.com/xurizaemon/hubot-mobilefriendly.git",
+    "hubot-pingdom-tools": "git+https://github.com/xurizaemon/hubot-pingdom-tools.git",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
+    "hubot-refrain": "git+https://github.com/xurizaemon/hubot-refrain.git",
+    "hubot-remind-her": "^0.4.1",
+    "hubot-rss-poller2": "git+https://github.com/xurizaemon/hubot-rss-poller2.git",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-twitter-mention": "git://github.com/xurizaemon/hubot-twitter-mention.git"
+    "hubot-twitter-mention": "git+https://github.com/xurizaemon/hubot-twitter-mention.git"
   },
   "engines": {
     "node": "0.10.x"
